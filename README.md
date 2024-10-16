@@ -13,5 +13,5 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-forecast-app.git
-   cd weather-forecast-app
+   git clone https://github.com/Mustaqeem-Ali/weather-web.git
+   cd weather-web
